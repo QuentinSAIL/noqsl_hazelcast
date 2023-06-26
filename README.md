@@ -1,5 +1,7 @@
 # Guide d'installation du projet
-
+```
+Hazelcast est une bdd de type de Key-value
+```
 ## Vérifier et installer Java
 
 1. Pour vérifier si Java est installé, ouvrez une fenêtre de terminal et tapez :
