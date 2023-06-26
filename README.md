@@ -24,9 +24,8 @@
 
 2. Pour cloner le dépôt, ouvrez un terminal, allez dans le répertoire où vous voulez que le code soit téléchargé, et tapez :
     ```
-    git clone url_du_repo
+    git clone https://github.com/QuentinSAIL/noqsl_hazelcast
     ```
-    Remplacez "url_du_repo" par l'URL du dépôt Github que vous voulez cloner.
 
 ## Utiliser Maven dans IntelliJ IDEA
 
